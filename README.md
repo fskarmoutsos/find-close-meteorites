@@ -13,6 +13,6 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "C:\Users\m_ska\code\find-close-meteorites\find_meteors.py"
+pipenv run python "C:\Users\m_ska\code\find-close-meteorites\meteors\find_meteors.py"
 
 ````
